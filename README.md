@@ -1,1 +1,1 @@
-# python_lesson
+# python lessons for kids
