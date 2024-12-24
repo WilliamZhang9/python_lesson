@@ -1,1 +1,2 @@
-# python lessons for kids
+# Python for beginners
+# Welcome to William's Python Class
